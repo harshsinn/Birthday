@@ -294,7 +294,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "vid/video.mkv?controls=0&loop=1&autoplay=0");
+  ifrm.setAttribute("src", "video/gift.mp4?controls=0&loop=1&autoplay=0");
   ifrm.style.width = `${260}px`;
   ifrm.style.height = `${360}px`;
   ifrm.style.border = 'none';
